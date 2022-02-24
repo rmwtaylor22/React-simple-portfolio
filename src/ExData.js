@@ -1,24 +1,44 @@
 const workHistory = [
     {
-        companyName : 'Company Name 1',
-        role: 'SDE Intern',
-        duration: "July'21 – Oct'21",
+        companyName : 'Elanco',
+        role: 'Saftey Contractor',
+        duration: "June'19 – Aug'19",
         workDes: [
-            'Build So and so on for xyz.',
-            'Designed and developed REST API’s to integrate user interaction with Twitter and Linkedin on server.',
+            'Utilized VBA and Tableau to create a click-button process that accessed and printed updated safety data charts in moments. This process used to take several minutes of manual manipulation.',
         ],
-        exposer: ["React", "Redux Saga ", "NodeJs", "ExpressJs", "MongoDB", "Heroku", "Twitter API’s", "LinkedIn API"] ,
+        exposer: ["Tableau", "Excel", "VBA"] ,
         link: 'https://google.com/',
     },
     {
-        companyName: 'Company Name 2',
-        role: 'SDE Intern',
-        duration: "Mar'21 – Apr'21",
+        companyName: 'Kratos Defense and Security Solutions',
+        role: 'Software Developer Intern',
+        duration: "May'20 – July'20",
         workDes: [
-            'Developed full stack B2B admin portal web application using Reactjs,Mongodb, Nodejs.',
-            'Designed and developed REST APIs to increase user interaction on the server.',
+            'Implemented new features, simplified design, and fixed bugs in the user interface of an Angular-based project. ',
+            'Coded a C++ library to retrieve, read, and write data to files.  Wrote Google Tests to help with bug fixing.',
         ],
-        exposer: ["React ", "NodeJs", "MongoDB" , "ContextAPI"],
+        exposer: ["Angular ", "C" ],
+        link: 'https://google.com/',
+    },
+    {
+        companyName: 'Samaritan\'s Purse',
+        role: 'Product Developer Intern',
+        duration: "June'21 – Aug'21",
+        workDes: [
+            'Developed user-facing features across the full stack, using Angular, C#, and MySQL.',
+            'Designed and built the beginning of the production code for a mobile web-app in four weeks.',
+        ],
+        exposer: ["Angular", "C#", "MySQL"],
+        link: 'https://google.com/',
+    },
+    {
+        companyName: 'Credera',
+        role: 'Technology Consultant',
+        duration: "June'22 -",
+        workDes: [
+            'Starting soon and can\'t wait!',
+        ],
+        exposer: [],
         link: 'https://google.com/',
     },
     

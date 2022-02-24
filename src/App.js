@@ -5,7 +5,9 @@ const Hero = lazy(() => import('./components/Hero'));
 const Project = lazy(() => import('./components/Project'));
 const Skill = lazy(() => import('./components/Skill'));
 const Contact = lazy(() => import('./components/Contact'));
-const Experience = lazy(() => import('./components/Experience'))
+const Experience = lazy(() => import('./components/Experience'));
+const About = lazy(() => import('./components/About'));
+const Blog = lazy(() => import('./components/Blog'));
 function App() {
   return (
     <Suspense
@@ -25,6 +27,8 @@ function App() {
           <Experience />
           <Project />
           <Skill />
+          <About />
+          <Blog />
           <Contact />
         </main>
       </div>

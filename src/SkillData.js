@@ -4,6 +4,10 @@ const Proficient = [
         logo: './images/icons/javascript-original.svg'
     },
     {
+        skill: "Angular",
+        logo: './images/icons/AngularJS-Shield.svg'
+    },
+    {
         skill: "React Js",
         logo: './images/icons/react-original.svg'
     },
@@ -16,29 +20,16 @@ const Proficient = [
         logo: "./images/icons/mongodb-original.svg"
     },
     {
-        skill: "Git",
-        logo: "./images/icons/git-scm-icon.svg"
-    },
-    
-    {
-        skill: "SocketIO",
-        logo: "./images/icons/socket-io.svg"
-    },
-    {
-        skill: "C Language",
-        logo: "./images/icons/icons8-c-programming-48.png"
-    },
-    {
-        skill: "C++ Language",
-        logo: "./images/icons/icons8-c++.svg"
-    },
-    {
         skill: "MySql",
         logo: "./images/icons/mysql-ar21.svg"
     },
     {
-        skill: "Redis",
-        logo: "./images/icons/redis-icon.svg"
+        skill: "Git",
+        logo: "./images/icons/git-scm-icon.svg"
+    },
+    {
+        skill: "Python",
+        logo: "./images/icons/python-icon.svg"
     },
     {
         skill: "HTML 5",
@@ -54,21 +45,18 @@ const Familiar = [
         skill: "Java",
         logo: "./images/icons/java-icon.svg"
     },
-    {
-        skill: "Python",
-        logo: "./images/icons/python-icon.svg"
-    },
-    {
-        skill: "WebRTC",
-        logo: "./images/icons/webrtc.svg"
-    },
+
     {
         skill: "Linux",
         logo: "./images/icons/linux-icon.svg"
     },
     {
-        skill: "AWS",
-        logo: "./images/icons/amazon_aws-icon.svg"
+        skill: "C Language",
+        logo: "./images/icons/icons8-c-programming-48.png"
+    },
+    {
+        skill: "C++ Language",
+        logo: "./images/icons/icons8-c++.svg"
     },
     
 ]
